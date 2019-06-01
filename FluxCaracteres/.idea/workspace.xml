@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e31ea8a-a872-4fb6-9eb1-9bcbda311302" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../binary-format" beforeDir="false" afterPath="$PROJECT_DIR$/../binary-format" afterDir="false" />
+    <list default="true" id="7e31ea8a-a872-4fb6-9eb1-9bcbda311302" name="Default Changelist" comment="Work JAVA and EX0 2.2 Write string to a file">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/CountWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CountWord/src/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FluxCaracteres/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_AVANC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/Arg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/Args.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/NoteFinale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours1/noteFinale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NbRationnel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/Perimeter_Rect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/Geometry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/META-INF/Perimeter_Rect.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perimeter_Rect/out/production/Perimeter_Rect/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/Pgcd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pgcd/out/production/Pgcd/pgcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Readme_java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../er.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java8-esgi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modelisation3d_pwd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/JAVA_AVANC/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Filecarac.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="136">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,16 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="413" />
-    <option name="y" value="-15" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="453" />
+    <option name="y" value="21" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -61,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,6 +121,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -143,9 +187,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Filecarac.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
